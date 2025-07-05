@@ -51,7 +51,7 @@ stm32_firmware/
 git clone --recurse-submodules https://github.com/libopencm3/libopencm3.git
 ```
 
-### Build the Project
+### 2. Build the Project
 
 ```bash
 mkdir -p build && cd build
