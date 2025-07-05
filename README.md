@@ -49,6 +49,8 @@ stm32_firmware/
 
 ```bash
 git clone --recurse-submodules https://github.com/libopencm3/libopencm3.git
+cd libopencm3
+make
 ```
 
 ### 2. Build the Project
