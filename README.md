@@ -45,12 +45,11 @@ stm32_firmware/
 
 ## 🛠️ Build Instructions
 
-<!-- ### 1. Clone with Submodules
+### 1. Clone with Submodules
 
 ```bash
-git clone --recurse-submodules <repo-url>
-cd <repo-name>
-``` -->
+git clone --recurse-submodules https://github.com/libopencm3/libopencm3.git
+```
 
 ### Build the Project
 
